@@ -34,7 +34,3 @@ After the dataset has been prepared, we could run the follow command to train.
   number={},  
   pages={1-14},  
   doi={10.1109/TKDE.2024.3401050}}
-
-
-### Acknowledgements
-[DCHMT](https://github.com/kalenforn/DCHMT)
