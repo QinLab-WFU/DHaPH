@@ -33,4 +33,4 @@ After the dataset has been prepared, we could run the follow command to train.
   volume={},  
   number={},  
   pages={1-14},  
-  doi={10.1109/TKDE.2024.3401050}}
+  doi={10.1109/TKDE.2024.3401050(https://ieeexplore.ieee.org/document/10530441)}}
