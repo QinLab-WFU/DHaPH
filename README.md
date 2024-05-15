@@ -1,4 +1,4 @@
-# Deep Hierarchy-aware Proxy Hashing with Self-paced Learning for Cross-modal Retrieval [Paper](https://ieeexplore.ieee.org/document/10530441)
+# [Deep Hierarchy-aware Proxy Hashing with Self-paced Learning for Cross-modal Retrieval](https://ieeexplore.ieee.org/document/10530441)
 This paper is accepted for publication with TKDE.
 
 ## Dependencies
