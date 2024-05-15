@@ -25,14 +25,14 @@ After the dataset has been prepared, we could run the follow command to train.
 
 
 ### Citation
-@ARTICLE{10530441,
-  author={Huo, Yadong and Qin, Qibing and Zhang, Wenfeng and Huang, Lei and Nie, Jie}, 
-  journal={IEEE Transactions on Knowledge and Data Engineering}, 
-  title={Deep Hierarchy-aware Proxy Hashing with Self-paced Learning for Cross-modal Retrieval}, 
-  year={2024}, 
-  volume={}, 
-  number={}, 
-  pages={1-14}, 
+@ARTICLE{10530441,  
+  author={Huo, Yadong and Qin, Qibing and Zhang, Wenfeng and Huang, Lei and Nie, Jie},  
+  journal={IEEE Transactions on Knowledge and Data Engineering},  
+  title={Deep Hierarchy-aware Proxy Hashing with Self-paced Learning for Cross-modal Retrieval},  
+  year={2024},  
+  volume={},  
+  number={},  
+  pages={1-14},  
   doi={10.1109/TKDE.2024.3401050}}
 
 
