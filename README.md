@@ -23,7 +23,7 @@ After the dataset has been prepared, we could run the follow command to train.
   journal={IEEE Transactions on Knowledge and Data Engineering},  
   title={Deep Hierarchy-aware Proxy Hashing with Self-paced Learning for Cross-modal Retrieval},  
   year={2024},  
-  volume={},  
-  number={},  
-  pages={1-14},  
+  volume={36},  
+  number={11},  
+  pages={5926-5939},  
   doi={10.1109/TKDE.2024.3401050}}
